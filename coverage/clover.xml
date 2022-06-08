@@ -1,20 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1654677409278" clover="3.2.0">
-  <project timestamp="1654677409278" name="All files">
-    <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3" elements="15" coveredelements="13" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2"/>
-    <file name="filterByTerm.js" path="/Users/marcodalprato/Documents/GitHub/getting-started-with-jest/src/filterByTerm.js">
-      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2"/>
-      <line num="2" count="2" type="cond" truecount="1" falsecount="1"/>
-      <line num="3" count="2" type="cond" truecount="1" falsecount="1"/>
-      <line num="4" count="2" type="stmt"/>
-      <line num="5" count="2" type="stmt"/>
-      <line num="6" count="6" type="stmt"/>
-      <line num="10" count="1" type="stmt"/>
-    </file>
-    <file name="multiplyByThree.js" path="/Users/marcodalprato/Documents/GitHub/getting-started-with-jest/src/multiplyByThree.js">
-      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="2" count="2" type="stmt"/>
+<coverage generated="1654714234480" clover="3.2.0">
+  <project timestamp="1654714234480" name="All files">
+    <metrics statements="45" coveredstatements="13" conditionals="16" coveredconditionals="1" methods="12" coveredmethods="2" elements="73" coveredelements="16" complexity="0" loc="45" ncloc="45" packages="1" files="1" classes="1"/>
+    <file name="timeHelpers.js" path="/Users/marcodalprato/GitHub/getting-started-with-jest/src/timeHelpers.js">
+      <metrics statements="45" coveredstatements="13" conditionals="16" coveredconditionals="1" methods="12" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
+      <line num="8" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="35" count="1" type="cond" truecount="0" falsecount="1"/>
+      <line num="36" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="44" count="0" type="stmt"/>
+      <line num="46" count="0" type="stmt"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="50" count="0" type="stmt"/>
+      <line num="51" count="0" type="stmt"/>
+      <line num="55" count="0" type="stmt"/>
+      <line num="56" count="0" type="stmt"/>
+      <line num="57" count="0" type="stmt"/>
+      <line num="58" count="0" type="stmt"/>
+      <line num="61" count="0" type="stmt"/>
+      <line num="63" count="0" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+      <line num="67" count="0" type="stmt"/>
+      <line num="71" count="0" type="stmt"/>
+      <line num="72" count="0" type="stmt"/>
+      <line num="73" count="0" type="stmt"/>
+      <line num="75" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="77" count="0" type="stmt"/>
+      <line num="79" count="0" type="stmt"/>
+      <line num="84" count="0" type="stmt"/>
+      <line num="85" count="0" type="stmt"/>
+      <line num="86" count="0" type="stmt"/>
+      <line num="88" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="90" count="0" type="stmt"/>
+      <line num="92" count="0" type="stmt"/>
+      <line num="95" count="1" type="stmt"/>
+      <line num="96" count="0" type="stmt"/>
+      <line num="100" count="0" type="stmt"/>
+      <line num="103" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
